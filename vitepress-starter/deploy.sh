@@ -12,4 +12,4 @@ git add -A
 git commit -m 'deploy'
 
 # 将master构建后的代码合并到deploy-pages分支上，然后在deploy-pages分支上部署~
-git push -f https://github.com/fiveeth/vitepress-five.git master:deploy-pages
+git push -f git@github.com:fiveeth/vitepress-five.git master:deploy-pages
