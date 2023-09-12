@@ -2,6 +2,8 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+title: 首页
+titleTemplate: 首页
 hero:
   name: "fiveeth"
   text: "人生在勤，不索何获。"
@@ -27,6 +29,4 @@ features:
   - icon: 🎉
     title: 英语
     details: 目前正在自学英语，希望在将来能有更多的机会
-
-lastUpdated: true    
 ---

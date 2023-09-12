@@ -2,6 +2,8 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+title: home
+titleTemplate: home
 hero:
   name: "fiveeth"
   text: "Hard work is the key to success."
@@ -27,6 +29,4 @@ features:
   - icon: 🎉
     title: english
     details: I am currently learning English by myself and hope to have more opportunities in the future
-
-lastUpdated: true
 ---
